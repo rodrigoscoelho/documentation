@@ -10,7 +10,7 @@ By utilizing Lead Capture feature administrator can create an entry point for ca
 * Subscribe Contact if exists - If a contact with the same email exists then contact will be added to the target list;
 * Target Team - A team to assign a created lead to;
 * Campaign - Statystics will be avilable in a campaign log;
-* Payload Fields - Select what fields need to be passsed.
+* Payload Fields - Select what fields need to be passed.
 
 ### Double Opt-in (confirmed opt-in)
 
